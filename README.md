@@ -4,26 +4,26 @@
   </a>
 </p>
 
-# Category Title (Category Abbreviation) 
+# Social Sciences: Understanding Human Behavior (SSHB) 
 
 ## Category Description
 
 Students will:
 
-- learning outcome
-- learning outcome
-- learning outcome
+- Effectively communicate an understanding of the research method(s) used by the discipline.
+- Critically evaluate theory(s) in the discipline that have been put forth to explain some aspect of human behavior.
+- Reflect critically on individual identity and responsibilities as citizens of diverse communities.
 
 ## Courses That Fulfill This Requirement
 
 | Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
+|  [PSY 1100] |  Introduction to Psychology | 4.00 Units |
 
-[EC 1000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
+[PSY 1100] - Basic methods and concepts of psychology, focusing on research findings and theoretical viewpoints. Topics include theories of personality, psychological development, personality disorders, social psychology, cognition, motivation and emotion, perception and learning, biological and socio-cultural bases of behavior. Prerequisite for most upper division psychology courses.
 
 
-[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[PSY 1100]:https://drive.google.com/file/d/1ChMheJlTAdmbwsJB36Gp2sNEYuEe55Yd/view?usp=sharing
 
 
 ## Make School Course Policies
