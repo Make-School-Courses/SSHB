@@ -18,6 +18,8 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
+|  ECON X |  Microeconomics and Personal Finance | Spring 2021 | 4.00 Units |
+|  PSY 1100 |  Introduction to Psychology | Spring 2021 | 4.00 Units |
 |  PSY 1100 |  Introduction to Psychology | [Fall 2020] | 4.00 Units |
 
 PSY 1100 - Basic methods and concepts of psychology, focusing on research findings and theoretical viewpoints. Topics include theories of personality, psychological development, personality disorders, social psychology, cognition, motivation and emotion, perception and learning, biological and socio-cultural bases of behavior. Prerequisite for most upper division psychology courses.
