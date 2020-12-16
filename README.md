@@ -18,9 +18,11 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
-|  ECON X |  Microeconomics and Personal Finance | Spring 2021 | 4.00 Units |
+|  ECON 2010 |  Microeconomics and Personal Finance | Spring 2021 | 4.00 Units |
 |  PSY 1100 |  Introduction to Psychology | Spring 2021 | 4.00 Units |
 |  PSY 1100 |  Introduction to Psychology | [Fall 2020] | 4.00 Units |
+
+ECON 2010 - This course constructs the beginning of a strong foundation of economics and personal finance in order to empower students to function effectively as consumers, workers, investors, entrepreneurs, and active citizens.  It begins with a basic introduction to supply and demand and microeconomic concepts.  It then builds on economic concepts that will help students interpret the daily news, understand the interdependencies of the world’s economies, and understand how markets operate within the United States. On a personal level, students develop critical thinking skills about their own economic choices and consumer decisions directly affect their likelihood of future economic success.
 
 PSY 1100 - Basic methods and concepts of psychology, focusing on research findings and theoretical viewpoints. Topics include theories of personality, psychological development, personality disorders, social psychology, cognition, motivation and emotion, perception and learning, biological and socio-cultural bases of behavior. Prerequisite for most upper division psychology courses.
 
